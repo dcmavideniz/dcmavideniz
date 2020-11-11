@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![Dogancan's github stats](https://github-readme-stats.vercel.app/api?username=dcmavideniz)](https://github.com/dcmavideniz).   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dcmavideniz)](https://github.com/dcmavideniz)
+
 
 <!--
 **dcmavideniz/dcmavideniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
